@@ -1,0 +1,4 @@
+baseURL = 'https://maxteibel.com/'
+languageCode = 'en-us'
+title = 'Max Teibel'
+theme = "dario"
